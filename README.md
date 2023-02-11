@@ -6,4 +6,5 @@ Booth's multiplication algorithm is a multiplication algorithm that multiplies t
 
 https://en.wikipedia.org/wiki/Booth%27s_multiplication_algorithm
 
-[Ali Ghanbari](https://github.com/ali-ghanbary) & [Mohammad Mashreghi](https://github.com/M-Mashreghi)
+
+Contributors:  [**Ali Ghanbari**](https://github.com/ali-ghanbary) & [**Mohammad Mashreghi**](https://github.com/M-Mashreghi)
